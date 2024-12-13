@@ -54,5 +54,3 @@ Soy un desarrollador de software con 8 años de experiencia en el análisis y de
 - Manejo de sistemas operativos Windows, Linux, MacOS (Experto)
 - Redes (Intermedio)
 
-
-Puedes copiar este contenido y crear un archivo `README.md` en tu repositorio de perfil para que sea visible en tu perfil de GitHub.
